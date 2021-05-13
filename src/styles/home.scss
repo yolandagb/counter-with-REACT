@@ -1,16 +1,16 @@
 .simple-counter-container{
-    background: gray;
+    background: black;
     float: center;
-    text-shadow: 3px 3px red;
     text-align: center;
+
+    
 
 } .simple-counter-container div{
      display: inline-block;
-     font-size: 200px;
-     line-height: 200px;
-     height: 220px;
-     background-color: gray;
-     color: yellow;
+     font-size: 100px;
+     height: 150px;
+     background-color: black;
+     color:whitesmoke;
      margin: auto;
-     font-family: "Lucida Console", "Courier New", monospace;
+     font-family: "Arial";
 }
